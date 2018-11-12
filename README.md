@@ -1,2 +1,2 @@
-# confiture
-C++ with SFML game engine
+# Confiture
+Game engine using SFML and C++
